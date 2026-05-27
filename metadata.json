@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse PH",
+  "description": "Metro Manila internet outage tracker, real-time community report aggregator, and automated ISP complaint generator.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
